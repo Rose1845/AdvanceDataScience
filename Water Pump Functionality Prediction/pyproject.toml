@@ -1,0 +1,15 @@
+[project]
+name = "water-pump-functionality-prediction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "joblib",
+    "scikit-learn",
+    "ipykernel",
+]
